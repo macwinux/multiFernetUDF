@@ -1,4 +1,4 @@
-package com.elastacloud
+package com.example
 
 import com.macasaet.fernet.StringValidator
 

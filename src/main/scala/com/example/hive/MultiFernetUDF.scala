@@ -1,4 +1,4 @@
-package com.elastacloud.hive
+package com.example.hive
 
 import com.macasaet.fernet.{Key, Token}
 import org.apache.hadoop.hive.ql.exec.UDF
